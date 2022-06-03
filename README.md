@@ -1,4 +1,4 @@
-# cplusplus_course
+# cplusplus course
 C++ Programming Course - Beginner to Advanced -  freeCodeCamp.org
 
 Chapter 2: Diving in
@@ -21,3 +21,32 @@ Characters And Text
 Auto
 Assignments
 Variables and data types summary
+
+Chapter 4: Operations on Data
+Introduction on Data operations
+Basic Operations
+Precedence and Associativity
+Prefix/Postfix Increment & Decrement
+Compound Assignment Operators
+Relational Operators
+Logical Operators
+Output formatting
+Numeric Limits
+Math Functions
+Weird Integral Types
+Data Operations Summary
+
+Chapter 4: Operations on Data
+Introduction on Data operations
+Basic Operations
+Precedence and Associativity
+Prefix/Postfix Increment & Decrement
+Compound Assignment Operators
+Relational Operators
+Logical Operators
+Output formatting
+Numeric Limits
+Math Functions
+Weird Integral Types
+Data Operations Summary
+
